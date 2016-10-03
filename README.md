@@ -1,10 +1,10 @@
 # xserver
-highperformence gameserver\n
+highperformence gameserver
 
-How to build it?\n
-install boost version >=1.42.\n
-mkdir build\n
-cd build\n
-cmake ..\n
-make\n
+How to build it?
+install boost version >=1.42
+mkdir build
+cd build
+cmake ..
+make
 
